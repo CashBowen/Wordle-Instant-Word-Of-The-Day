@@ -1,0 +1,1 @@
+javascript: alert('The Word Of The Day Is '+(new window.wordle.bundle.GameApp).solution)
