@@ -1,5 +1,3 @@
-javascript:
-
 let WordOfTheDay = (new window.wordle.bundle.GameApp).solution;
 
 window.dispatchEvent(new KeyboardEvent('keydown', {
