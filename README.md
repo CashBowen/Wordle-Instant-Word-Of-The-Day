@@ -16,7 +16,7 @@ In the bookmark manager click the 3 dots in the top right,
 
 Click add new bookmark,
 
-But the title as anything you want,
+Put the title as anything you want,
 
 Paste the code from the bookmarklet code in the URL box,
 
