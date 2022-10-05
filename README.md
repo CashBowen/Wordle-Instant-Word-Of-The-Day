@@ -9,3 +9,6 @@ Paste the code from `code.js` into the console, then type in the console:
 window.wordle.instant_word();
 ```
 Or click the bookmark which can be downloaded in the releases page.
+
+# ****Note:****
+## The release is currently broken so please use the other method
