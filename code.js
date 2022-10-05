@@ -1,6 +1,6 @@
 window.wordle.instant_word = function() {
 
-let WordOfTheDay = (new window.wordle.bundle.GameApp).solution;
+let WordOfTheDay = JSON.parse(localStorage['nyt-wordle-state']).solution;
 
 window.dispatchEvent(new KeyboardEvent('keydown', {
   'key': WordOfTheDay.charAt(0)
